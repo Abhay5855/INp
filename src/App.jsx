@@ -20,7 +20,7 @@ function App() {
       setMessage({
         img: meme,
       });
-    }, 1000); // 1 second delay
+    }, 3000); 
   };
 
   return (
